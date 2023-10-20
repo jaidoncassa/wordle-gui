@@ -4,7 +4,7 @@ class functionality:
 
     def __init__(self):
         self.valid_words = []
-        self.filename = 'words.txt'
+        self.filename = 'sgb-words.txt'
         
         # handles file not found
         try:
